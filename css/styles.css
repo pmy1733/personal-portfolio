@@ -1,4 +1,20 @@
 body {
     background-color: skyblue;
-    border: 2em,red;
-};
+    
+}
+
+button {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background-color: rgb(193, 255, 236);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 10Spx;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 32px;
+ }
